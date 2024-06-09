@@ -15,7 +15,7 @@ bepass-worker
   - [Manual Deployment](#manual-deployment)
 - [🗺 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
-- [نسخه فارسی](https://github.com/uoosef/bepass-worker/blob/main/README-FA.md)
+- [نسخه فارسی](https://github.com/farkerday/beepass-workers/blob/main/README-FA.md)
 
 ---
 
@@ -65,7 +65,7 @@ To manually deploy the worker:
 2. From the main navbar, choose **Workers & Pages**
 3. Click the **Create Application** button
 4. Click the **Create Worker** button
-5. Copy the [worker.js](https://github.com/uoosef/bepass-worker/blob/main/dist/worker.js) file contents from this repository
+5. Copy the [worker.js](https://github.com/farkerday/beepass-workers/blob/main/dist/worker.js) file contents from this repository
 6. Fill in a name for your worker and click the **Deploy** button
 7. Click the **Quick Edit** button
 8. Paste your clipboard contents and replace the worker's default code
@@ -77,7 +77,7 @@ To manually deploy the worker:
 
 You can deploy this worker to your Cloudflare account automatically with one click using the button below.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/user/bepass-worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/farkerday/beepass-workers)
 
 ---
 
@@ -178,6 +178,6 @@ The project maintainers will review your changes and provide feedback or merge t
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/uoosef/bepass-worker/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/farkerday/beepass-workers/blob/main/LICENSE) file for details.
 
 ---
